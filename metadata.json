@@ -1,0 +1,6 @@
+{
+  "name": "Animura - Anime Discovery & Streaming Hub",
+  "description": "Explore trending anime, simulcast release schedules, episode guides, voice actor vaults, curated soundtracks, and personalized watchlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
